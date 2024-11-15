@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "PROJEK%20P5%20WEB%20PROFIL%20TPTUP" }
+    { "source": "/", "destination": "PROJEK%20P5%20WEB%20PROFIL%20TPTUP/" }
   ]
 }
